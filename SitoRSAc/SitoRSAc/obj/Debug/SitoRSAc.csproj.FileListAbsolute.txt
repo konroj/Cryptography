@@ -1,0 +1,6 @@
+c:\users\mmrod_000\documents\visual studio 2013\Projects\SitoRSAc\SitoRSAc\bin\Debug\SitoRSAc.exe.config
+C:\Users\mmrod_000\documents\visual studio 2013\Projects\SitoRSAc\SitoRSAc\bin\Debug\SitoRSAc.exe
+C:\Users\mmrod_000\documents\visual studio 2013\Projects\SitoRSAc\SitoRSAc\bin\Debug\SitoRSAc.pdb
+C:\Users\mmrod_000\documents\visual studio 2013\Projects\SitoRSAc\SitoRSAc\obj\Debug\SitoRSAc.csprojResolveAssemblyReference.cache
+C:\Users\mmrod_000\documents\visual studio 2013\Projects\SitoRSAc\SitoRSAc\obj\Debug\SitoRSAc.exe
+C:\Users\mmrod_000\documents\visual studio 2013\Projects\SitoRSAc\SitoRSAc\obj\Debug\SitoRSAc.pdb
